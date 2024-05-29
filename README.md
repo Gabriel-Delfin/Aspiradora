@@ -13,3 +13,7 @@ De igual manera es indispensable recopilar la siguiente información durante la 
 - Tiempo necesario hasta que todas las celdas estén limpias (o se haya llegado al tiempo máximo).
 - Porcentaje de celdas limpias después de 500, 1000 y 1500 pasos de simulación.
 - ¿Cuál es la cantidad mínima de agentes para lograr que el espacio esté limpio en menos de 1000 pasos?
+
+
+## Código
+El código estará disponible para descargar como _M1_Actividad.ipynb_. Si desea saber más sobre el código puede entrar a la documentación en _M1_Actividad.pdf_. 
